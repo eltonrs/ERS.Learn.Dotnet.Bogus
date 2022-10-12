@@ -1,14 +1,17 @@
-﻿namespace ERS.Learn.Dotnet.Bogus.Domain
+﻿using System.Xml.Linq;
+
+namespace ERS.Learn.Dotnet.Bogus.Domain
 {
     public class Studant
     {
-        public int Name { get; set; }
-        public DateTime DateBorn { get; set; }
+        public string Name { get; set; }
+        public DateTime BirthDate { get; set; }
         public bool Enable { get; set; }
         public Guid RA { get; set; }
 
         public Studant()
         {
+            Name = string.Empty;
             RA = Guid.NewGuid();
         }
     }
