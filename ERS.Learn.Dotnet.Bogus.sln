@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERS.Learn.Dotnet.Bogus.Domain", "ERS.Learn.Dotnet.Bogus.Domain\ERS.Learn.Dotnet.Bogus.Domain.csproj", "{AEC0693C-4C0A-4F63-8CF6-CC6653597D4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC0693C-4C0A-4F63-8CF6-CC6653597D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC0693C-4C0A-4F63-8CF6-CC6653597D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC0693C-4C0A-4F63-8CF6-CC6653597D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC0693C-4C0A-4F63-8CF6-CC6653597D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EA75FBB-AC6F-4B65-B3F3-2887EE785530}
+	EndGlobalSection
+EndGlobal
